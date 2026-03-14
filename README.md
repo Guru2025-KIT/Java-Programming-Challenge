@@ -5,7 +5,7 @@
 This repository contains my practice and learning journey in **Core Java**.  
 The goal is to strengthen my understanding of Java fundamentals by solving problems, writing programs, and building a solid foundation.
 
----
+----
 
 ## 🎯 Objectives
 
@@ -34,7 +34,7 @@ The goal is to strengthen my understanding of Java fundamentals by solving probl
 - Collections Framework  
 - File Handling  
 
----
+----
 
 ## 📅 Progress
 
