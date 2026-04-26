@@ -12,7 +12,7 @@ The goal is to strengthen my understanding of Java fundamentals by solving probl
 - Master Core Java concepts  
 - Improve problem-solving skills  
 - Write clean and efficient code  
-- Build consistency through regular practice  
+- Build consistency through regularpractice. 
 
 ---
 
