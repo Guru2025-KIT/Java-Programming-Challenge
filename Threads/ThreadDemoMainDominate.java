@@ -7,9 +7,10 @@ class Counter{
     }
 }
 
-public class ThreadDemo{
+public class ThreadDemoMainDominate{
     public static void main(String[] args) {
-        System.out.println("Welcome in the World of Threads!");
+
+            System.out.println("Welcome in the World of Threads!");
 
         Counter c1=new Counter();
 
@@ -22,7 +23,7 @@ public class ThreadDemo{
 
         Runnable obj2=()->
         {
-            for(int i=1;i<=100;i++){
+            for(int i=1;i<=10000;i++){
                 c1.iterate();
             }
         };
@@ -37,5 +38,10 @@ public class ThreadDemo{
 
         System.out.println("In the Main Thread\nPrinting the Value of Count: "+c1.count);
 
+        
+
+        // Welcome in the World of Threads!
+        // In the Main Thread
+        // Printing the Value of Count: 0
     }
 }
